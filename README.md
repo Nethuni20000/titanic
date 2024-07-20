@@ -1,1 +1,1 @@
-# titanic
+# Naive Baise Classifier - Titanic
